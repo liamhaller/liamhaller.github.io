@@ -65,15 +65,17 @@
 <br>
 <br>
 
-<div class="max-w-md mx-auto bg-white rounded-xl overflow-hidden md:max-w-2xl">
+<div class="layout-md text-lg space-y-14">
   <div class="md:flex">
     <div class="md:shrink-0">
-      <img class="object-scale-down h-70 w-60" src="/assets/images/liam_dezim.jpg" alt="Modern building architecture">
+      <img class="object-scale-down h-70 w-60 rounded-xl" src="/assets/images/liam_dezim.jpg" alt="Modern building architecture">
     </div>
-    <div class="p-8">
-      <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Hello!</div>
+    <div class="md:p-10">
+      <div class="uppercase tracking-wide text-sm text-black-500 font-semibold">Hello!</div>
       <br>
-      <p class="space-y-5">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
+      <p class="space-y-5">My name is Liam and I am currently a migration researcher at the 
+        <a class="link" href="https://www.dezim-institut.de/en/institute/about-dezim/" target="_blank" >DeZIM institute</a> in Berlin
+      </p>
     </div>
   </div>
 </div>
@@ -85,7 +87,7 @@
 
   <div class="space-y-5">
     <p>
-      I currently live at <a class="link" href="https://modal.com">Modal</a>, a
+      I currently live at <a class="link" href="https://modal.com" target="_blank" >Modal</a>, a
       new cloud computing platform.
     </p>
 
@@ -181,13 +183,7 @@
     <p>Other interests: math, physics, reading, photography, and biking.</p>
   </div>
 
-  <div class="space-y-5">
-    <!-- <p>This is what I look like:</p> -->
-    <img
-      alt="Self-portrait photograph of Eric Zhang at his desk"
-      src="/assets/images/profile4.jpg"
-    />
-  </div>
+
 </div>
 
 <style lang="postcss">
