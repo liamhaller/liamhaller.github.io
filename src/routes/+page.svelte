@@ -48,10 +48,10 @@
 
 <Seo
   title="Liam Haller"
-  description="Software writer, researcher, and designer. Making meaningful systems and interfaces for people."
+  description="Researcher, software engieer, and designer. Making meaningful systems and interfaces for people."
 />
 
-<p
+<!-- <p
   class="layout-md text-black text-xl leading-tight font-light mb-16"
   id="eric-is"
 >
@@ -59,8 +59,30 @@
   researcher<span class="g">, and</span><br />
   designer<span class="g">.</span>
 </p>
+ -->
+
+<br>
+<br>
+<br>
+
+<div class="max-w-md mx-auto bg-white rounded-xl overflow-hidden md:max-w-2xl">
+  <div class="md:flex">
+    <div class="md:shrink-0">
+      <img class="object-scale-down h-70 w-60" src="/assets/images/liam_dezim.jpg" alt="Modern building architecture">
+    </div>
+    <div class="p-8">
+      <div class="uppercase tracking-wide text-sm text-indigo-500 font-semibold">Hello!</div>
+      <br>
+      <p class="space-y-5">Looking to take your team away on a retreat to enjoy awesome food and take in some sunshine? We have a list of places to do just that.</p>
+    </div>
+  </div>
+</div>
+
+<br>
+<br>
 
 <div class="layout-md text-lg space-y-14">
+
   <div class="space-y-5">
     <p>
       I currently live at <a class="link" href="https://modal.com">Modal</a>, a
@@ -80,6 +102,8 @@
     </p>
   </div>
 
+  <!-- Temp removing feature projects -->
+<!-- 
   <div class="leading-snug space-y-4">
     <p class="pb-2">Notable open-source work:</p>
 
@@ -97,7 +121,7 @@
         </div>
       </a>
     {/each}
-  </div>
+  </div> -->
 
   <div class="space-y-5">
     <p>
