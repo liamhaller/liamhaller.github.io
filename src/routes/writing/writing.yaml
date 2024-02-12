@@ -1,110 +1,59 @@
 papers:
-  - title: Designing Datalog-Based Embedded Languages
-    date: 2023-03-24
+  - title: Displacement in Europe today - Where do we stand after 1945?
+    date: 2024-01-15
     summary: >
-      My senior thesis, where I design and implement two logic programming
-      languages, present case studies on their real-world usage, and evaluate
-      them as systems.
-    link: /assets/pdf/Senior_Thesis.pdf
+      Book chapter on historical role of displacment ... 
+    link: "https://www.dezim-institut.de/fileadmin/user_upload/Demo_FIS/publikation_pdf/FA-5396.pdf"
 
-  - title: Tandem Solar Cells
-    date: 2022-12-13
+  - title: New platforms for engagement
+    date: 2022-11-01
     summary: >
-      Fabrication and characterization of a tandem solar device. Final project
-      for MIT class 6.2540 on nanofabrication.
-    link: "https://docs.google.com/presentation/d/e/2PACX-1vTK3Mz-3TaocxwgeP-RuD4qhdBk6bn_UzdZDrVRpP6-p-wnLut_mfGB0PzeSTnbIc20eXG7E618-Npw/pub"
+      Insights on growing role and efficacy of private accommodation in response to the escalation of the war in Ukraine
+    link: "https://www.dezim-institut.de/fileadmin/user_upload/Demo_FIS/publikation_pdf/FA-5396.pdf"
 
-  - title: Multi-Architecture Parallelism
-    date: 2022-12-11
+  - title: Using Binary Factorizations to Connect Additive Systems and Fair Sacks of Dice
+    date: 2020-06-06
     summary: >
-      Envisioning flexible parallelism in deep learning compilers on
-      heterogeneous compute. Final project for CS 243, Advanced Computer
-      Networks.
-    link: /assets/pdf/Jax_Parallelism.pdf
-
-  - title: Pressure Field Models
-    date: 2021-12-08
-    summary: >
-      Efficient simulation of contact dynamics using a hydroelastic intersection
-      model. Final project for 6.834, Robotic Manipulation.
-    link: /assets/pdf/Hydroelastics.pdf
-
-  - title: Pencil Sketch Rendering
-    date: 2021-05-21
-    summary: >
-      Real-time stylized rendering of meshes and SDFs using geometry processing
-      techniques. Final project for 6.838, Shape Analysis.
-    link: "https://pencil-sketching.vercel.app/Pencil-Sketching.pdf"
-
-  - title: Time-Space Lower Bounds
-    date: 2021-05-06
-    summary: >
-      An technical exposition of Ran Raz's strong hardness result for learning
-      problems. Final project for CS 221, Advanced Computational Complexity.
-    link: /assets/pdf/Learning_Space_Cryptography.pdf
-
-  - title: 3-Inflatable Permutations
-    date: 2021-01-29
-    summary: >
-      Mathematics research paper, published in the Electronic Journal of
-      Combinatorics (E-JC).
-    link: "https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i1p24/pdf"
-
-  - title: Taint Analysis for Browser Fingerprinting
-    date: 2020-12-11
-    summary: >
-      Dynamic taint analysis for user privacy on the web. Final project for CS
-      263, Systems Security.
-    link: /assets/pdf/Browser_Fingerprinting.pdf
-
-  - title: Generative Music Modeling
-    date: 2020-12-08
-    summary: >
-      Composing music by annealed Langevin dynamics and noise-conditional score
-      networks. Final project for CS 252r, Advanced Topics in Programming
-      Languages and AI.
-    link: /assets/pdf/Generative_Music_Modeling.pdf
-
-  - title: Lorenz Attractor Bifurcations
-    date: 2020-11-23
-    summary: >
-      Presentation on chaos theory of the Lorenz system, local and global
-      bifurcations. Final project for Math 118r, Chaotic Dynamical Systems.
-    link: /assets/pdf/Lorenz_System_Bifurcations.pdf
-
-  - title: DeepCoder
-    date: 2020-10-15
-    summary: >
-      Seminar presentation on learned inductive program synthesis (published in
-      ICLR 2017) for CS 252r, Advanced Topics in Programming Languages and AI.
-    link: /assets/pdf/DeepCoder.pdf
-
-  - title: Compression-Based Generalization Bounds
-    date: 2020-05-14
-    summary: >
-      Survey of modern research in deep learning theory. Final project for CS
-      228, Computational Learning Theory.
-    link: /assets/pdf/Compression_Based_Generalization_Bounds.pdf
-
-  - title: Single Bidder Auctions
-    date: 2019-12-10
-    summary: >
-      Survey of research in mechanism design and optimal transport theory. Final
-      project for CS 223, Random Processes and Algorithms.
-    link: /assets/pdf/Single_Bidder_Multi_Item_Auctions.pdf
-
-  - title: On Quasirandom Permutations
-    date: 2018-05-20
-    summary: >
-      Talk introducing new forcing results on quasirandom permutations. This
-      solved an open problem in combinatorics.
-    link: "https://math.mit.edu/research/highschool/primes/materials/2018/conf/9-2%20Zhang.pdf"
+      Developed a general framework to factor discrete and infinite polynomials to integrate research on
+      two previously distinct fields
+    link: /assets/pdf/sacks_of_dice.pdf
 
 articles:
-  - title: "Stat 211: Statistical Inference"
-    date: 2021-12-01
+  - title: "A not-so ‘natural’ decision: impact of bureaucratic trajectories on
+   forced migrants’ intention and ability to naturalise"
+    date: 2023-10-17
     summary: >
-      Graduate-level class discussing inference on statistical models,
-      frequentist and Bayesian perspectives.
-    link: /assets/pdf/Stat_211_Notes.pdf
+      The paper explores non-automatic naturalization decisions, 
+      and the impact of discretionary implementation and red tape on migrants' strategies.
+    link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
+
+  - title: "[Under review] Do the means affect the end? Implementation of 
+    naturalization policy as a catalyzer for procedural injustice"
+    date: 2023-10-17
+    summary: >
+      The paper explores non-automatic naturalization decisions, 
+      and the impact of discretionary implementation and red tape on migrants' strategies.
+    link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
+
+  - title: "[Under review] Sustainability of homestay accommodation for refugees"
+    date: 2023-10-17
+    summary: >
+      The paper explores non-automatic naturalization decisions, 
+      and the impact of discretionary implementation and red tape on migrants' strategies.
+    link: "https://www.tandfonline.com/doi/full/10.1080/1369183X.2023.2268844"
+
+presentations:
+  - title: "The role of Citizenship in Migration and Displacement"
+    date: 2023-05-16
+    summary: >
+      Guest lecture at the University of Kurdistan in Erbil on migration and citizenship in 
+      Germany and Iraq
+    link: /assets/pdf/erbil_citizenship.pdf
+
+  - title: "Gestern Syrer*innen, heute Deutsche? Zur Einbürgerung von Geflüchten"
+    date: 2023-01-19
+    summary: >
+      Keynote on naturalization decision making processes and discussion with Jan Schneider on 
+      recent updates to Germany's citizenship laws
+    link: /assets/pdf/dezim_lunch.pdf
 

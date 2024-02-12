@@ -15,6 +15,11 @@
 </section>
 
 <section class="layout-md py-12">
-  <h2 class="heading2">Working papers & Other publications</h2>
+  <h2 class="heading2">Working papers & Book chapters</h2>
   <WritingList data={writing.papers} />
+</section>
+
+<section class="layout-md py-12">
+  <h2 class="heading2">Presentations</h2>
+  <WritingList data={writing.presentations} />
 </section>

@@ -5,18 +5,17 @@
 
   const featuredProjects = [
     {
-      name: "sshx",
-      href: "/projects#sshx",
-      desc: "secure web-based, collaborative terminal",
+      name: "A not-so 'natural' decision",
+      href: "https://doi.org/10.1080/1369183X.2023.2268844",
+      desc: "A new qualitative framework for naturalization decisions",
     },
     {
-      name: "TOre",
-      href: "/projects#bore",
-      desc: "bypass your NAT in just 400 lines of code",
-      aside: "7500+ stars on GitHub",
+      name: "surveyexplorer - R package",
+      href: "/projects#surveyexplorer",
+      desc: "Quickly Explore Complex Survey Data",
     },
     {
-      name: "Percival",
+      name: "R package for complex survey data",
       href: "/projects#percival",
       desc: "reactive notebooks for exploratory data analysis",
     },
@@ -25,23 +24,6 @@
       href: "/projects#rustpad",
       desc: "self-hosted collaborative text editor",
       aside: "2M+ downloads",
-    },
-    {
-      name: "Crepe",
-      href: "/projects#crepe",
-      desc: "compiled Datalog language in Rust",
-      aside: "used by distributed databases & security systems",
-    },
-    {
-      name: "FastSeg",
-      href: "/projects#fastseg",
-      desc: "real-time semantic segmentation for self-driving cars",
-    },
-    {
-      name: "Set with Friends",
-      href: "/projects#setwithfriends",
-      desc: "online multiplayer card game",
-      aside: "30M+ page views, 900K+ users",
     },
   ];
 </script>
@@ -73,41 +55,37 @@
     <div class="md:p-10">
       <div class="uppercase tracking-wide text-sm text-black-500 font-semibold">Hello!</div>
       <br>
-      <p class="space-y-5">My name is Liam and I am currently a migration researcher at the 
-        <a class="link" href="https://www.dezim-institut.de/en/institute/about-dezim/" target="_blank" >DeZIM institute</a> in Berlin
+      <p class="space-y-5">My name is Liam and I am a migration researcher at the 
+        <a class="link" href="https://www.dezim-institut.de/en/institute/about-dezim/" target="_blank" >
+          DeZIM institute</a> in Berlin. My aim is to better understand migration decisions and trajectories 
+          using quantitative methods and through the study of complex systems.  
+
       </p>
     </div>
   </div>
 </div>
 
 <br>
-<br>
 
 <div class="layout-md text-lg space-y-14">
 
   <div class="space-y-5">
     <p>
-      I currently live at <a class="link" href="https://modal.com" target="_blank" >Modal</a>, a
-      new cloud computing platform.
+      My current research includes the the development of large-scale, agent-based simulations,
+      the application of Bayesian methods, and the use of Markov chains to model forced migrant trajectories. 
+
     </p>
 
     <p>
-      I hope to develop better <em>interactive software</em> for people to cultivate
-      and share ideas, and to meaningfully express what brings them joy.
+      Previously, I was awareded a Fulbright research grant to ...  Before that, I worked as a software engineer at McMaster-Carr and conducted research in 
+      combinatorics. 
     </p>
 
-    <p>
-      Towards that goal, I am a generalist and care deeply about <em>systems</em
-      >, which form the fundamental building blocks of our applications; and
-      <em>interaction design</em>, how we use and live with computers that are
-      all around us.
-    </p>
   </div>
 
-  <!-- Temp removing feature projects -->
-<!-- 
+
   <div class="leading-snug space-y-4">
-    <p class="pb-2">Notable open-source work:</p>
+    <p class="pb-2">Selected research & projects:</p>
 
     {#each featuredProjects as project}
       <a class="project-pair" href={project.href}>
@@ -123,65 +101,28 @@
         </div>
       </a>
     {/each}
-  </div> -->
+  </div> 
+
+
 
   <div class="space-y-5">
+
     <p>
-      Previously, I worked at <a class="link" href="https://prosper.org"
-        >Prosper Robotics</a
-      >, <a class="link" href="https://convex.dev">Convex</a>,
-      <a class="link" href="https://jumptrading.com">Jump Trading</a>,
-      <a class="link" href="https://scale.com">Scale AI</a>, and
-      <a class="link" href="https://nvidia.com">Nvidia</a>. I’ve also
-      independently published things in the past, like a
-      <a
-        class="link"
-        href="https://pubs.aip.org/books/monograph/129/F-ma-Contests2011-2019-Solutions-Manual"
-        >physics book</a
-      >,
-      <a
-        class="link"
-        href="https://www.combinatorics.org/ojs/index.php/eljc/article/view/v28i1p24/pdf"
-        >combinatorics research</a
-      >, and
-      <a class="link" href="https://github.com/ekzhang/graphics-workshop"
-        >graphics tutorials</a
-      >
-      used by thousands. Before that, I won two gold medals at the
-      <a class="link" href="https://stats.ioinformatics.org/people/6717"
-        >International Olympiad in Informatics</a
-      >.
+       I gratudated from Northwestern University, where I studied in mathemtatics and several 
+       foreign langauges. 
+       
+       To varying degrees of fluency, I can speak Arabic (shami/fausa), German, French,
+       Hebrew, and Portuguese (br). I also took some masters-level coursework in finaincal economics thorugh 
+       the Kellogg certificate program. 
     </p>
 
     <p>
-      I recently graduated from Harvard, where I was a teaching fellow for
-      upper-level CS classes, wrote my <a
-        class="link"
-        rel="external"
-        href="/assets/pdf/Senior_Thesis.pdf">thesis on Datalog</a
-      >, and studied art, music, and sociology. I am a classical violist and
-      enjoy making music with others (<a
-        class="link"
-        href="https://www.youtube.com/live/_T4IVv0becE">1</a
-      >,
-      <a
-        class="link"
-        href="https://www.thecrimson.com/article/2023/4/18/Natasha-pierre-great-comet-1812-musical-preview/"
-        >2</a
-      >, <a class="link" href="https://youtu.be/4ysgUA-rKUw">3</a>,
-      <a class="link" href="https://youtu.be/rYrVFTzP4sw">4</a>,
-      <a class="link" href="https://www.harvardbachsoc.org/">5</a>,
-      <a
-        class="link"
-        href="https://news.harvard.edu/gazette/story/2019/11/west-side-story-explores-racial-ethnic-political-complications/"
-        >6</a
-      >,
-      <a class="link" href="https://youtu.be/OcucfY2Kzqo">7</a>,
-      <a class="link" href="https://youngarts.org/">8</a>).
+      Other interests: leatherworking, baking bagels, triathalons
     </p>
 
-    <p>Other interests: math, physics, reading, photography, and biking.</p>
   </div>
+
+
 
 
 </div>

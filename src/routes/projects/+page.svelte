@@ -61,7 +61,7 @@
 </script>
 
 <Seo
-  title="Eric Zhang – Projects"
+  title="Liam Haller – Projects"
   description="Open-source software projects in systems, web development, computer graphics, music, programming languages, machine learning, and more."
 />
 
@@ -88,7 +88,7 @@
   </p>
 </section>
 
-<div class="bg-gray-900 text-neutral-200 dark">
+<!-- <div class="bg-gray-900 text-neutral-200 dark">
   <section class="layout-md py-12">
     <h2 class="heading2 text-white">Table of Contents</h2>
     <ul class="sm:columns-2">
@@ -99,7 +99,7 @@
       {/each}
     </ul>
   </section>
-</div>
+</div> -->
 
 <div class="bg-neutral-50 border-b border-neutral-200 py-4">
   <div class="flex justify-center space-x-6">
