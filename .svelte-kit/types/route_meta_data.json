@@ -3,6 +3,9 @@
 		"src/routes/+layout.ts",
 		"src/routes/+layout.ts"
 	],
+	"/agents": [
+		"src/routes/+layout.ts"
+	],
 	"/projects": [
 		"src/routes/+layout.ts"
 	],

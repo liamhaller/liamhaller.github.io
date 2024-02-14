@@ -69,23 +69,14 @@
   <h2 class="heading2">Open Source</h2>
 
   <p class="text-lg mb-4">
-    I view building software in the open as a mode of <em
-      class="font-serif text-[110%] leading-[100%]">creative exploration</em
-    >. It lets me quickly act on inspiration, delve into new topics, and make
-    tools that improve people's lives.
+    interested in building tools... to further research.. academic writing to document make resarch 
+    more aceessible and transparent
   </p>
 
   <p class="text-lg mb-4">
-    You'll see that I particularly like programming languages, distributed
-    systems, machine learning, computer graphics, music, and art.
+    political risk financial economcis...
   </p>
 
-  <p class="text-lg">
-    If you find something interesting,
-    <a class="link" href="mailto:ekzhang1@gmail.com?subject=Software%20Projects"
-      >let me know</a
-    >!
-  </p>
 </section>
 
 <!-- <div class="bg-gray-900 text-neutral-200 dark">
