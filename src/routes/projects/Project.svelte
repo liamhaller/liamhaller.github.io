@@ -1,6 +1,4 @@
 <script lang="ts">
-  import { Star } from "lucide-svelte";
-
   import Markdown from "$lib/components/Markdown.svelte";
   import { formatTime } from "$lib/utils";
 
@@ -29,19 +27,7 @@
   </small>
 </h3>
 
-<!-- Stars and tags (pill bar) -->
 <div class="flex flex-wrap mb-1">
-  <a
-    class="pill hover:!bg-neutral-200 transition-colors"
-    href="https://github.com/{data.repo}/stargazers"
-  >
-    <Star size={14} class="fill-current" />
-    {#if stars?.[data.repo] !== undefined}
-      <span class="ml-1">{stars[data.repo].toLocaleString()}</span>
-    {:else}
-      <span>&ZeroWidthSpace;</span>
-    {/if}
-  </a>
   {#each data.topics as tag}
     <div class="pill">{tag}</div>
   {/each}

@@ -21,7 +21,7 @@
     },
     {
       name: "Rustpad",
-      href: "/projects#rustpad",
+      href: "/post",
       desc: "self-hosted collaborative text editor",
       aside: "2M+ downloads",
     },
@@ -77,7 +77,8 @@
     </p>
 
     <p>
-      Previously, I was awareded a Fulbright research grant to ...  Before that, I worked as a software engineer at McMaster-Carr and conducted research in 
+      Previously, I was awareded a Fulbright research grant to to model the naturalization decision-making processes of forced migrants. 
+       Before that, I worked as a software engineer at McMaster-Carr and conducted research in 
       combinatorics. 
     </p>
 
@@ -111,13 +112,13 @@
        I gratudated from Northwestern University, where I studied in mathemtatics and several 
        foreign langauges. 
        
-       To varying degrees of fluency, I can speak Arabic (shami/fausa), German, French,
-       Hebrew, and Portuguese (br). I also took some masters-level coursework in finaincal economics thorugh 
+       To varying degrees of fluency, I speak Arabic (shami/fausa), German, French,
+       Hebrew, and Portuguese (br). I also took masters-level coursework in finaincal economics through 
        the Kellogg certificate program. 
     </p>
 
     <p>
-      Other interests: leatherworking, baking bagels, triathalons
+      Other interests intersts of mine include leatherworking, baking bagels, triathalons
     </p>
 
   </div>

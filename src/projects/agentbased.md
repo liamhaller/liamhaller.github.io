@@ -9,5 +9,10 @@ image: agentbased.jpg
 
 agent based...
 
-**Links:
-<a data-sveltekit-preload-data="tap" href="/agents">Posts</a>**
+
+
+<ol>
+  <li> <a data-sveltekit-preload-data="tap" href="https://docs.google.com/document/d/1ebGrqzxBTTnHfJWiHk4NQromHpRJ2GPjaq9jjcZy9AI/edit#heading=h.nz8ktk95g5kd">1. <U> What is an agent-based model, and why build one? </U>  </a>
+ </li>
+
+</ol>
