@@ -6,18 +6,16 @@ export const nodes = [
 	() => import('./nodes/2'),
 	() => import('./nodes/3'),
 	() => import('./nodes/4'),
-	() => import('./nodes/5'),
-	() => import('./nodes/6')
+	() => import('./nodes/5')
 ];
 
 export const server_loads = [];
 
 export const dictionary = {
 		"/": [2],
-		"/blog": [3],
-		"/projects": [4],
-		"/resume": [5],
-		"/writing": [6]
+		"/projects": [3],
+		"/resume": [4],
+		"/writing": [5]
 	};
 
 export const hooks = {
